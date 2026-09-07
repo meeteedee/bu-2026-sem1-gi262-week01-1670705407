@@ -461,25 +461,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 564d477d91d5e844883e1c089ef0c83b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Assignment
-  as01Number: 0
-  as02Day: 0
-  as03InputPassword: 
-  as03CorrectPassword: 
-  as04Score: 0
-  as05Year: 0
-  as06Num1: 0
-  as06Op: 0
-  as06Num2: 0
-  as07Month: 0
-  as08Quantity: 0
-  as08Price: 0
-  as08Payment: 0
-  as09UserChoice: 0
-  as09ComputerChoice: 0
-  as10WeaponType: 
-  as10BaseDamage: 0
-  as11Score: 0
-  as11CompletionTime: 0
+  as01Number: -67
+  as02Day: 5
+  as03InputPassword: Awo
+  as03CorrectPassword: AwoGRR
+  as04Score: 41
+  as05Year: 2000
+  as06Num1: 20
+  as06Op: 47
+  as06Num2: 5
+  as07Month: 4
+  as08Quantity: 20
+  as08Price: 10
+  as08Payment: 10
+  as09UserChoice: 1
+  as09ComputerChoice: 2
+  as10WeaponType: dagger
+  as10BaseDamage: 50
+  as11Score: 6767
+  as11CompletionTime: 30
 --- !u!4 &1270451329
 Transform:
   m_ObjectHideFlags: 0
